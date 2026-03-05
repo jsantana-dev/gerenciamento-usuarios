@@ -229,4 +229,4 @@ model Usuario {
 
 ## 👩‍💻 Autora
 
-Feito por **Jamylle da Silva Santana** durante o **Bootcamp de Desenvolvimento Full Stack** da [Atlântico Avanti](https://www.atlantico.com.br/).
+Feito por **Jamylle da Silva Santana** durante o **Bootcamp de Desenvolvimento Full Stack** da [Atlântico Avanti](https://www.atlanticoavanti.com.br/).
