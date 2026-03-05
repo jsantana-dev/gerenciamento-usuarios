@@ -1,7 +1,7 @@
-requestAnimationFrame('dotenv').config();
+require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-const usuarioRoutes = require('./routes/usuarios');
+const usuarioRoutes = require('./routes/usuarios.routes');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
