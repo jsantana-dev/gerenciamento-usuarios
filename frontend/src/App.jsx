@@ -37,7 +37,7 @@ export default function App() {
       </header>
 
       <main className="max-w-4xl mx-auto px-4 py-8">
-        <div className="flex gap-2 mb-6">
+        <div className="flex justify-center gap-2 mb-6">
           <button
             className={`px-5 py-2 rounded-lg border-2 border-indigo-600 font-semibold text-sm transition-colors ${
               aba === 'cadastro'
